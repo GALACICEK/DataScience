@@ -9,7 +9,8 @@ Inside [VSCode](https://code.visualstudio.com/download#) install Python and Jupi
 
 If checked true install and works you can write codeline this block
 
-  ``` import pandas as pd
+  ``` 
+    import pandas as pd
     import numpy as np
     import matplotlib.pyplot as plt
   ```
