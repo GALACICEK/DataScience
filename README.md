@@ -7,9 +7,9 @@ This file requirer download
 
 Inside [VSCode](https://code.visualstudio.com/download#) install Python and Jupiter 
 
-If checked true install and works you can write codeline this block
+To check if the installation is correct, you can write this line of code in this block.
 
-  ``` 
+  ``` python
     import pandas as pd
     import numpy as np
     import matplotlib.pyplot as plt
