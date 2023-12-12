@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+requests
+nlp_rake
+wordcloud
+pytz
+scipy
+scikit-learn
