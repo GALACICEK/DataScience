@@ -26,5 +26,3 @@ def call_api(request):
 
 if __name__ == "main":
     my_function()
-    request = ""
-    call_api(request)
